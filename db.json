@@ -1,7 +1,9 @@
 {
-  "id": 0,
-  "description": "First poopy",
-  "external_url": "https://ipfs.io/ipfs/QmdRwmDcKC4PXrcgbyxwZrNymQ2UJmeDLMGbgDEfbGe3te?filename=Composition_1.png",
-  "image": "https://ipfs.io/ipfs/QmdRwmDcKC4PXrcgbyxwZrNymQ2UJmeDLMGbgDEfbGe3te?filename=Composition_1.png",
-  "name": "Poopy 0"
+  "tokens": [
+    "id": 0,
+    "description": "First poopy",
+    "external_url": "https://ipfs.io/ipfs/QmdRwmDcKC4PXrcgbyxwZrNymQ2UJmeDLMGbgDEfbGe3te?filename=Composition_1.png",
+    "image": "https://ipfs.io/ipfs/QmdRwmDcKC4PXrcgbyxwZrNymQ2UJmeDLMGbgDEfbGe3te?filename=Composition_1.png",
+    "name": "Poopy 0"
+  ]
 }
